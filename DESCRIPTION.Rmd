@@ -1,0 +1,27 @@
+---
+title: "Outline of Data Store System"
+author: "Daniel Kaplan"
+date: "December 23, 2014"
+output: html_document
+---
+
+## Background
+
+I'm updating a system for writing, deploying, and scoring exercise sets.  The objectives of the system:
+
+
+## Subsytems
+
+### 1. Content creation and sharing.
+    
+a. Provide a relatively easy way for instructors and others to write exercises with technical/mathematical content.
+#. Enable easy sharing of such material.
+#. Allow authors to use their own tools for revision control and distribution, e.g. git, Dropbox, personal directories in institutional web servers, etc.
+    
+### 2. An interface to access the exercises and student submissions
+
+a. Easily maintained, updated, and modifiable --- done in R/Shiny
+    
+### 3. (Somewhat) secure storage of submissions and other information
+
+
